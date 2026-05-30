@@ -1,0 +1,14 @@
+{
+  "id":  "32a10387-fe31-43fc-85c1-8cf2120165b7",
+  "name":  "D:\\Farangiz\\metodica",
+  "projectResources":  {
+    "resources":  [
+      {
+        "gitFolder":  {
+          "folderUri":  "file://D:/Farangiz/metodica",
+          "allowWrite":  true
+        }
+      }
+    ]
+  }
+}
